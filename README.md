@@ -7,6 +7,7 @@ I also have some basic experience using Java, Python, JavaScript, and a teeny-ti
 
 ### CTF's
 I have competted in many CTF competitions throughout my high school career. Some of which include my own JROTC's 'BrainChildCTF' (created by David Morgan: [Senior Tech Mentor for US Cyber Games](https://www.uscybergames.com/season-3-coaches))
+I have also played in the Virginia Cyber Range's Cloud CTF, and now I am working on Radford University's RUSecure CTF.
 
 ### Math
 Currently, the highest math class that I have taken is AP Calculus AB (I am currently enrolled as of my senior year @ MVHS), and it doesn't seem that hard (you know, basic 1+1=2 type stuff).
