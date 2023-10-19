@@ -14,3 +14,7 @@ Currently, the highest math class that I have taken is AP Calculus AB (I am curr
 
 ### English
 I am also in DE English 12 w/ Germana Community College, and have consistiently have gotten > 'A'.
+
+### Extracurricular Activities
+I am actively involved in the following:
+.> Marksmanship
