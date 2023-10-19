@@ -13,7 +13,7 @@ I have also played in the Virginia Cyber Range's Cloud CTF, and now I am working
 Currently, the highest math class that I have taken is AP Calculus AB (I am currently enrolled as of my senior year), and it doesn't seem that hard (you know, basic 1+1=2 type stuff).
 
 ### English
-I am also in DE English 12 w/ Germana Community College, and have consistiently have gotten > 'A'.
+I am also in DE English 12 w/ Germana Community College, and have consistiently have gotten >= 'A'.
 
 ### Extracurricular Activities
 I am actively involved in the following:
