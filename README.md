@@ -1,4 +1,4 @@
-# Lehrmanaidins
+# lehrmanaidins
 
 ### Programming: "Hello World!"
 I am currently a senior (12th-year). I have taken AP Computer Science A (and got a '5' on the AP test), and I am currently enrolled in AP Computer Science Principles and Programming I and II. 
