@@ -1,32 +1,47 @@
 # lehrmanaidins
 
-### Programming: "Hello World!"
-I am currently a senior (12th-year). I have taken AP Computer Science A (and got a '5' on the AP test), and I am currently enrolled in AP Computer Science Principles and Programming I and II. 
-I have experience in Java through both AP Computer Science A and Programming II at Mountain View High School. I also am proficient at Python through introductory courses such as AP Computer Science Principles and 
-intermediate experience with large data analysis and generation through personal programming progress and various Capture the Flag challenges. 
+## Summary
+Ambitious Information Technology student with a solid foundation in cybersecurity, software development, and robotics. Proven success in high-stakes competitions like CyberPatriot Nationals and the Virginia Commonwealth Cyber Cup. CompTIA Security+ certified, skilled in Python, Java, and a little C++. Currently pursuing a Bachelor's in IT with a focus on Software Development, passionate about solving complex technical problems and driving innovation.
 
-### CTF's
-I have competted in many CTF competitions throughout my high school career. Some of which include my own JROTC's 'BrainChildCTF' (created by David Morgan: [Senior Tech Mentor for US Cyber Games](https://www.uscybergames.com/season-3-coaches))
-I have also played in the Virginia Cyber Range's Cloud CTF, Radford University's RUSecure CTF, and the Virginia Commonwealth Cyber Cup in which my team, the CyberCats, achieved 2nd in the state. 
 
-### CyberPatriots
-For all four years in high school I was a part of my MCJROTC's unit's CyberPatriot Team. My senior year (2024), my team, Mountain View High School MCJROTC Scarlet Team, went to nationals and acheived 12th in the nation in the All Service Division. 
+## Competitions
+### CyberPatriot Nationals, Bethesda, MD
+  * CyberPatriot is a national youth cyber defense competition, organized by the Air & Space Forces Association, that challenges students to secure various operating systems loaded on virtual machines.
+### Virgina Commonwealth Cyber Cup, Blacksburg, VA
+  * Statewide Capture the Flag (CTF) cybersecurity competition for Virginia public high school students.
+Placement: 2nd Place in the state of Virginia.
+### Innovation Challenge Robotics Competition, Dahlgren, VA
+  * Two-day robotics competition where over 100 students across Northern Virginia competed at the University of Mary Washington Dahlgren Campus by coding robots in Python to perform various tasks such as object recognition and line following.
 
-### Math
-Currently, the highest math class that I have taken is AP Calculus AB (I am currently enrolled as of my senior year) in which I have achieved straight A's. 
 
-### Physics
-My Junior year I took Honors Physics in which I exelled so much in my school counselor recomended me to take IB Physics II during my senior year. My end of the year Internal Assesment which I chose the topic was titled
-"Determining the Rate of Orbital Decay of a Small Satellite Orbiting in a Circular, Low Earth Orbit." In this paper I applied complicated math equations involving Calculus, Orbital Mechanics, and Atmospheric Drag in Pythoin scripts to generate large 'csv' files containing data on orbital decay rates in m/s. 
+## Education
+### Strayer University, Washington, DC
+  * Bachelor of Science in Information Technology with Concentration in Software Development
+  * Enrolled: October 2024 – Expected Graduation: December 2026
+### Mountain View High School, Stafford, VA
+  * Advanced High School Diploma 
+  * August 2020 - May 2024
+### Germanna Community College, Locust Grove, VA
+  * Completed 12 credit hours through dual enrollment courses while in high school.
+  * August 2022 - May 2024
+### Norwich University, Northfield, VT
+  * Two-Week Cyber Security Camp 
+  * July 2022
 
-### English
-I am also in DE English 111/112 through Germana Community College, and have consistiently earned A's. My end of the year Problem-Solution Essay was titled "Assessing the Deficiency of Fully Reusable Launch Vehicles in NASA’s Space Launch Missions."
 
-### Extracurricular Activities
-I am actively involved in the following:
-- Marksmanship
-- CyberPatriot
-- Cyber Club
-- Raiders
-- Disc Golf Club (President/Founder)
-- Stafford County Sheriff Cadet Program
+## Certifications
+### CompTIA Security+ Certification
+  * Earned October 3rd, 2024
+### W3 Schools Introductory Java and C++ Certifications
+  * Earned both December 25th and 29th, 2024, respectively
+
+
+## Skills
+### Leadership
+  * Various leadership roles in JROTC in High School as the Administrations Officer, as the President and Founder of the Mountain View High School Disc Golf Club, and through a couple hundred hours of volunteer hours at various events.
+### S.T.E.M. Oriented
+  * Experience, education, and familiarity in the fields of Physics, Computer Science such as Cyber Security and Programming, as well as Mathematics such as Calculus, Trigonometry, and Geometry.
+### Teamwork
+  * Experience with teamwork through many competitions such as CyberPatriot, Capture the Flag Challenges, Robotics Competitions, Raider Competitions, Sheriff Cadet Program, etc.
+### Analytical and Problem-Solving
+  * Analytical skill through programming simulations for Low-Earth orbital-decay and atmospheric reentry trajectory predictor. Problem-solving skills through various timed and scored competitions such as Capture the Flag, CyberPatriot, etc.
